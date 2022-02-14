@@ -14,7 +14,6 @@ LeetCode Solutions: A Log of My Problem-Solving Adventure
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Subsets in Python](python/078_Subsets.ipynb) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters in Python](python/003_Length_Of_Longest_Substring.ipynb) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays in Python](python/004_Median_of_Two_Sorted_Arrays.ipynb) | Hard |
-
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer in Python](python/007_Reverse_Integer.ipynb) | Medium |
 
 
